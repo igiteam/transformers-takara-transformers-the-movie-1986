@@ -3,10 +3,10 @@
 A total conversion mod for Transformers Takara that remakes the Transformers The Movie 1986.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/transformers-takara-transformers-the-movie-1986 ](https://treegit.macosxjs.com/?url=igiteam/transformers-takara-transformers-the-movie-1986 )
+[https://treegit.macosxjs.com/?url=igiteam/transformers-takara-transformers-the-movie-1986](https://treegit.macosxjs.com/?url=igiteam/transformers-takara-transformers-the-movie-1986)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/transformers-takara-transformers-the-movie-1986 /git/trees/main?recursive=1](https://api.github.com/repos/igiteam/transformers-takara-transformers-the-movie-1986 /git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/transformers-takara-transformers-the-movie-1986/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/transformers-takara-transformers-the-movie-1986/git/trees/main?recursive=1)
 
  
 ## Base gameplay
@@ -21,7 +21,7 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
 
 ## Reference links
-
+[http://redump.org/disc/43374/](http://redump.org/disc/43374/)
 
 
 ## Dev Environment
