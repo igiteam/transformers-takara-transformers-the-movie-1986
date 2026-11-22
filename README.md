@@ -10,7 +10,7 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
  
 ## Base gameplay
-[![[PS2]TAKARAトランスフォーマー　サイバトロン#1[Opening&渓谷]](https://img.youtube.com/vi/iIxnllkE7bk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aUl4bmxsa0U3Yms)
+[![[PS2]TAKARAトランスフォーマー　サイバトロン#1[Opening&渓谷]](https://i.ytimg.com/vi/69Pgc2QDlco/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aUl4bmxsa0U3Yms)
 
 [![PS2Recomp - How to get started recompiling (initial stages tutorial)](https://img.youtube.com/vi/xCeB6Vsm9n4/hqdefault.jpg)](https://ytembed.macosxjs.com/?eENlQjZWc205bjQ)
 
@@ -26,7 +26,12 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 ## Reference links
 [http://redump.org/disc/43374/](http://redump.org/disc/43374/)
 
+[https://archive.org/details/transformers-season-1](https://archive.org/details/transformers-season-1)
+
+[![The Transformers: The Movie - Opening (Rough)](https://img.youtube.com/vi/K-duGP0eM18/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Sy1kdUdQMGVNMTg)
+
 [![transformers-takara-ps2-SLPM-65407](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/transformers-takara.png)](https://archive.org/details/transformers-takara-ps2-SLPM-65407)
+
 
 ## Dev Environment
 
