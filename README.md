@@ -23,6 +23,7 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 ## Reference links
 [http://redump.org/disc/43374/](http://redump.org/disc/43374/)
 
+[![transformers-takara-ps2-SLPM-65407](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/transformers-takara-ps2-SLPM-65407.png)](https://archive.org/details/transformers-takara-ps2-SLPM-65407)
 
 ## Dev Environment
 
