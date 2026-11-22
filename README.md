@@ -10,11 +10,11 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
  
 ## Base gameplay
-[![[PS2]TAKARAトランスフォーマー　サイバトロン#1[Opening&渓谷]](https://i.ytimg.com/vi/69Pgc2QDlco/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aUl4bmxsa0U3Yms)
+[![[PS2]TAKARAトランスフォーマー　サイバトロン#1[Opening&渓谷]](https://img.youtube.com/vi/iIxnllkE7bk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aUl4bmxsa0U3Yms)
 
 [![PS2Recomp - How to get started recompiling (initial stages tutorial)](https://img.youtube.com/vi/xCeB6Vsm9n4/hqdefault.jpg)](https://ytembed.macosxjs.com/?eENlQjZWc205bjQ)
 
-[![Transformers 1986 - Unicron Intro (HD Widescreen)](https://img.youtube.com/vi/flYT2SYlM64/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmxZVDJTWWxNNjQ)
+[![Transformers 1986 - Unicron Intro (HD Widescreen)](https://img.youtube.com/vi/69Pgc2QDlco/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmxZVDJTWWxNNjQ)
 
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
