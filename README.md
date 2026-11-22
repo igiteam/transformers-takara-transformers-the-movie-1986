@@ -14,13 +14,13 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
 [![PS2Recomp - How to get started recompiling (initial stages tutorial)](https://img.youtube.com/vi/xCeB6Vsm9n4/hqdefault.jpg)](https://ytembed.macosxjs.com/?eENlQjZWc205bjQ)
 
-[![Transformers 1986 - Unicron Intro (HD Widescreen)](https://img.youtube.com/vi/OtgnqWLYqHo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmxZVDJTWWxNNjQ)
-
 [![Transformers Takara](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-1.jpg)](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-1.jpg)
 
 [![Transformers Takara](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-2.jpg)](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-2.jpg)
 
 [![Transformers Takara](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-3.jpg)](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/Transformers%20Classic%20PS2%20ISO-3.jpg)
+
+[![Transformers 1986 - Unicron Intro (HD Widescreen)](https://img.youtube.com/vi/OtgnqWLYqHo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmxZVDJTWWxNNjQ)
 
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
