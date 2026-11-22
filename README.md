@@ -28,9 +28,10 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
 [https://archive.org/details/transformers-season-1](https://archive.org/details/transformers-season-1)
 
+[![transformers-takara-ps2-SLPM-65407](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/transformers-takara.png)](https://archive.org/details/transformers-takara-ps2-SLPM-65407)
+
 [![The Transformers: The Movie - Opening (Rough)](https://img.youtube.com/vi/K-duGP0eM18/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Sy1kdUdQMGVNMTg)
 
-[![transformers-takara-ps2-SLPM-65407](https://raw.githubusercontent.com/igiteam/transformers-takara-transformers-the-movie-1986/refs/heads/main/transformers-takara.png)](https://archive.org/details/transformers-takara-ps2-SLPM-65407)
 
 
 ## Dev Environment
