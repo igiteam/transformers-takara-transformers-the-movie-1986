@@ -14,6 +14,9 @@ A total conversion mod for Transformers Takara that remakes the Transformers The
 
 [![PS2Recomp - How to get started recompiling (initial stages tutorial)](https://img.youtube.com/vi/xCeB6Vsm9n4/hqdefault.jpg)](https://ytembed.macosxjs.com/?eENlQjZWc205bjQ)
 
+[![Transformers 1986 - Unicron Intro (HD Widescreen)](https://img.youtube.com/vi/flYT2SYlM64/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmxZVDJTWWxNNjQ)
+
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
